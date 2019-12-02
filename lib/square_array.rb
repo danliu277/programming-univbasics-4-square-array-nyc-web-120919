@@ -3,4 +3,5 @@ def square_array(array)
   while array[index] do 
     array[index] = array[index] * array[index]
     index++
+  end
 end
